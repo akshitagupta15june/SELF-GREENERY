@@ -1,7 +1,7 @@
 
 # Micro:bit Automated Self Watering Plant
 
-<img src="https://github.com/akshitagupta15june/Microbit-Automated-Self-Watering-Plant/blob/master/Images/automate.jpeg">
+<img src="https://github.com/akshitagupta15june/Microbit-Automated-Self-Watering-Plant/blob/master/Images/automate.jpeg" height=400 width=320>
 
 ## Inspiration
 Nowadays, people are very busy with their schedule and they do not take care of the plants. Most people are too lazy to water the potted plants on their rooftop gardens every day during summers. So, we have made a system which automatically waters the plant according to its need. 
